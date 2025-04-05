@@ -3,7 +3,7 @@ def hello(name):
 
 
 def question():
-    answer = input("How are you?\n")
+    answer = input("How old are you?\n")
     return answer
 
 
